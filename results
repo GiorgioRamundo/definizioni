@@ -1,0 +1,6 @@
+similarity between concreti and astratti: 0.0
+similarity between concreti and specifici: 0.08333333333333333
+similarity between concreti and generici: 0.08333333333333333
+similarity between astratti and specifici: 0.125
+similarity between astratti and generici: 0.125
+similarity between generici and specifici: 0.20833333333333331
